@@ -1,0 +1,3 @@
+Se pide un programa que lea el codigo y el costo del articulo, e imprima su precio de venta al mayor y al detal.
+Al mayor su precio es el costo mas el 15% del mismo
+Al detal su precio es el costo mas el 30% del mismo
