@@ -1,0 +1,1 @@
+1) Dada la letra del sexo de una persona (‘F’ o ‘M’), muestre si es hombre o mujer.  
