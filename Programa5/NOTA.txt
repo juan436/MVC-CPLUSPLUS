@@ -1,0 +1,1 @@
+Mostrar un día de la semana en letras dado un número entero.
