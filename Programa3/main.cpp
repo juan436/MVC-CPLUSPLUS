@@ -7,4 +7,5 @@ int main(){
 		cout<<"HOLA, CON ESTE PROGRAMA TE DIRE SI ERES DE SEXO FEMENINO O MASCULINO\n Y CON UN SOLO DATO! \n";//
 		cont.ProcesarSexo();
 	return 0;
+	
 }
