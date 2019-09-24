@@ -21,4 +21,5 @@ char VPersona::LeerLetra(){
 void VPersona::ImprimirSexo(string sexo){
 	system("cls");
 	cout<<sexo;
+	system("pause");
 }
