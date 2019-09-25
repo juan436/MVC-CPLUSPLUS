@@ -1,0 +1,2 @@
+En una empresa se asignará un aumento del 10% a todo el personal obrero y un 5% al personal administrativo.
+Calcular el nuevo sueldo de un empleado dado su tipo y sueldo actual. 
