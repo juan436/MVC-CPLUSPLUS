@@ -1,0 +1,2 @@
+Se sabe que una llamada local cuesta Bs. 80 el minuto y a celular Bs. 300,
+dada la duración de la llamada, calcular el monto a pagar por el servicio.  
