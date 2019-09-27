@@ -1,0 +1,1 @@
+ Dado un número entero, determinar si el mismo es positivo o negativo. 
